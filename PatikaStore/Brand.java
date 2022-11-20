@@ -1,6 +1,4 @@
 package PatikaStore;
-import java.util.Comparator;
-import java.util.TreeSet;
 
 public class Brand {
     private int id;
