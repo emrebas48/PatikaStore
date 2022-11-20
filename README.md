@@ -20,7 +20,7 @@ git clone https://github.com/emrebas48/PatikaStore.git
 
 
 ## Usage
-- Application that calculates salary increases, taxes, bonus salary of factory workers
+- Application for listing, filtering, adding and removing electronic products in store.
 
 
 ## Contributing
